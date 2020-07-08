@@ -2,7 +2,6 @@
 title: "주요 용어 정리"
 date: 2020-07-06 17:05:00
 categories: Terms 용어
-use_math: true
 ---
 '001'. Holonomic, Nonholonomic, Redundant
   - Holonomic : Controllable DOF = Total DOF
